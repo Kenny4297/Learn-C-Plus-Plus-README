@@ -37,7 +37,7 @@ At the end of each lesson, a multiple choice / true-false quiz is given to test 
 
 
 ## **Challenge Example**
-<img src="./images/challengeExample.png" alt="Screenshot for the challenge page" width="1000"/>
+<img src="./images/ChallengeExample.png" alt="Screenshot for the challenge page" width="1000"/>
 
 Once the quiz is completed, the user can now try building the challenge that was presented to them at the beginning of the lesson. With the exception of the final challenge, they all contain started code that progressively becomes less and less as the challenges progress, until they must build the final lessons challenge from scratch.
 
