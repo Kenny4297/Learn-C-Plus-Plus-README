@@ -27,7 +27,7 @@ This project is licensed under the MIT license.
 ## **Lesson Example**
 <img src="./images/lessonPage.png" alt="Screenshot for the lesson page" width="1000"/>
 
-Each lesson starts with displaying the code for the unit challenge. Although this will look foreign, each line of code is explained through out the lesson. Each lesson contains 10 slides, and gives additional information about each line of code.
+Each lesson starts with displaying the code for the unit challenge. Although this will look foreign, each line of code is explained throughout the lesson. Each lesson contains 10 slides, and gives additional information about each line of code.
 
 
 ## **Quiz Example**
