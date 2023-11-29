@@ -57,7 +57,7 @@ TypeScript is a statically-typed superset of JavaScript, developed by Microsoft 
 * Styled-components
 
 ## **Deployment**
-Respecting my client's confidentiality, I am not authorized to publicly share the project link. To explore the functionality and design of this project, please do not hesitate to reach out to me at geckob4i@gmail.com. We can arrange a virtual meeting where I will be pleased to provide a comprehensive walkthrough of the project. Your understanding and cooperation are greatly appreciated.
+Respecting my client's request, I am not authorized to publicly share the project link. To explore the functionality and design of this project, please do not hesitate to reach out to me at geckob4i@gmail.com. We can arrange a virtual meeting where I will be pleased to provide a comprehensive walkthrough of the project. Your understanding and cooperation are greatly appreciated.
 
 ## **Testing**
 Here is the coverage table for the projects tests:
